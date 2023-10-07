@@ -4,7 +4,7 @@ Submitted by: **Jeffrey Wang**
 
 About this web app: **a virtual community space with an interactive interface that allows users to explore events by location. The user should be able to click on one of at least four locations and view events that have occurred or will occur there.**
 
-Time spent: **1** hours
+Time spent: **3** hours
 
 ## Required Features
 
